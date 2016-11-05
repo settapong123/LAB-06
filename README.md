@@ -18,28 +18,15 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic1.png)
 
   2.2).	โปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
 
+  ![](https://github.com/settapong123/LAB-06/blob/master/imgs/lab60.JPG?raw=true)
 ###คำถาม 6.1 ถ้าพิมพ์ตัวอักษรจำนวนหลายๆ ตัวแล้วกด Enter จะได้ผลอย่างไร ทำไมจึงเป็นเช่นนั้น
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+  
+  ![](https://github.com/settapong123/LAB-06/blob/master/imgs/lab61.JPG?raw=true)
 
 ###คำถาม 6.2 ในบรรทัดที่ 11 ซึ่งมีโปรแกรมเป็น ```ch = (char)Console.Read();```  นั้น ถ้าตัด ```(char)``` ออกไป จะเกิดอะไรขึ้น ให้อธิบายประกอบ
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+  
+  - รันไม่ได้
 
 3).	โปรแกรมสำหรับรับ string จากคีย์บอร์ด
  
@@ -48,12 +35,8 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic2.png)
  
  3.2).	โปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+![](https://github.com/settapong123/LAB-06/blob/master/imgs/lab62.JPG?raw=true)
 
 4).	โปรแกรมสำหรับรับค่าตัวเลข เนื่องจากคำสั่ง ```Read()``` และ ```ReadLine()``` จะรับเฉพาะตัวอักษร การรับตัวเลข เราต้องใช้เมธอด TryParse() มาช่วยแปลงค่า
 
@@ -62,20 +45,12 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic3.png)
 
 4.2).	รัน โปรแกรม โดยป้อนตัวเลขใดๆ และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
 
+  ![](https://github.com/settapong123/LAB-06/blob/master/imgs/lab63.JPG?raw=true)
+  
 ###คำถาม 6.3 ถ้าเราป้อนตัวอักษรลงไปแทนที่ตัวเลข จะเกิดอะไรขึ้น มีวิธีการป้องกันหรือแก้ไขอย่างไร
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+ 
+ - Error แก้ไขโดยอย่าไปพิมพ์ตัวอักษรหรือไม่ก็ทำตามข้อถัดไป
 
 5).	โปรแกรมสำหรับรับค่าตัวเลข แต่ในบางกรณีที่ผู้ใช้ป้อนตัวอักษร จะทำให้เกิด error และทำให้โปรแกรม hang ได้ จึงต้องมีการป้องกันโดยใช้ประโยค ```try{…} catch{…}```  (ประโยค ```try{…} catch{…}``` นี้จะศึกษารายละเอียดภายหลัง)
 
@@ -84,20 +59,12 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic4.png)
 
   5.2).	รัน โปรแกรม โดยป้อนตัวเลขใดๆ และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+  ![](https://github.com/settapong123/LAB-06/blob/master/imgs/lab64.JPG?raw=true)
 
 ###คำถาม 6.4 ถ้าเราป้อนตัวอักษรลงไปแทนที่ตัวเลข จะเกิดอะไรขึ้น เหมือนหรือต่างจากโปรแกรมก่อนหน้านี้อย่างไร
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+  - Error
 
 ##แบบฝึกหัด ให้เขียน code ในการรับค่าอินพุตต่อไปนี้และแสดงออกหน้าจอให้ถูกต้อง
 ``` Name :  (ป้อนชื่อของนักศึกษา). ```
@@ -106,4 +73,9 @@
 
 ``` ID : (ป้อนรหัสนักศึกษา).```
 
-``` GPA : (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก).```
+``` GPA : (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก).
+
+
+  ![](https://github.com/settapong123/LAB-06/blob/master/imgs/lab65.JPG?raw=true)
+  ![](https://github.com/settapong123/LAB-06/blob/master/imgs/lab66.JPG?raw=true)
+
